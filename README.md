@@ -1,7 +1,7 @@
 MathQ
 =====
 
-MathQ is a Haskell module providing over 150 mathematical special functions using a subset of high performance [library](http://www.mymathlib.com).
+MathQ is a Haskell package providing over 150 mathematical special functions using a subset of [this](http://www.mymathlib.com) high performance library.
 
 * Combinatorial Functions
 
